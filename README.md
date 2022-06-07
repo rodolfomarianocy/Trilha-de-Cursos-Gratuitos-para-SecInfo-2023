@@ -1,5 +1,5 @@
-# Trilha de Cursos Gratuitos para Segurança da Informação
-#### Essa trilha engloba diversos links de cursos gratuítos, de modo a orientar quem está iniciando na área, e ela segue ordem sequencial de aprendizagem.
+# Trilha de cursos gratuitos para Segurança da Informação
+#### Essa trilha engloba diversos links de cursos com certificados e gratuitos, de modo a orientar quem está iniciando na área, e ela segue uma ordem sequencial de aprendizagem.
 
 ## Redes
 Network Essentials - netacad
