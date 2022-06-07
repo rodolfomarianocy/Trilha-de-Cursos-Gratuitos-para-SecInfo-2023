@@ -58,10 +58,6 @@ https://www.dio.me/
 
 ## Pentest na Prática
 
-Introdução a Segurança da Informação - eSecurity
-
-https://esecurity.com.br/cursos/introducao-a-seguranca-da-informacao/
-
 Introdução ao Hacking e Pentest 2.0 - Solyd
 
 https://solyd.com.br/treinamentos/introducao-ao-hacking-e-pentest-2/
@@ -69,6 +65,10 @@ https://solyd.com.br/treinamentos/introducao-ao-hacking-e-pentest-2/
 Introdução ao Pentest na Prática
 
 https://desecsecurity.com/academy
+
+Introdução a Segurança da Informação - eSecurity
+
+https://esecurity.com.br/cursos/introducao-a-seguranca-da-informacao/
 
 Web Fundamentals, Jr Penetration Tester e Offensive Pentesting - TryHackMe
 
