@@ -14,7 +14,7 @@ https://4linux.com.br/cursos/treinamento/linux-fundamentals/
 
 ## Programação
 
-Fundamentos de Lógica de Programação - Bradesco
+Fundamentos de Lógica de Programação - Fundação Bradesco
 
 https://www.ev.org.br/cursos/fundamentos-de-logica-de-programacao
 
@@ -42,7 +42,7 @@ Introduction to CyberSecurity - Cisco
 
 https://www.netacad.com/pt-br/courses/cybersecurity/introduction-cybersecurity
 
-Segurança em Tecnologia da Informação - Bradesco
+Segurança em Tecnologia da Informação - Fundação Bradesco
 
 https://www.ev.org.br/cursos/seguranca-em-tecnologia-da-informacao
 
