@@ -33,7 +33,7 @@ Eventos Microsoft LATAM - Brasil
 
 https://www.microsoft.com/pt-br/events-hub/
 
-## Introdução Segurança da Informação
+## Introdução à Segurança da Informação
 
 Pre-Security - TryHackMe
 
