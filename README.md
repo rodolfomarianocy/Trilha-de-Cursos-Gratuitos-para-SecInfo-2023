@@ -1,13 +1,11 @@
 # Trilha de Cursos Gratuitos para SecInfo
-### Essa trilha engloba diversos links de cursos gratuítos, de modo a orientar quem está iniciando na área, e ela segue ordem sequencial de aprendizado.
+### Essa trilha engloba diversos links de cursos gratuítos, de modo a orientar quem está iniciando na área, e ela segue ordem sequencial de aprendizagem.
 
 
 ## Redes
 -> Network Essentials - netacad
 
 https://www.netacad.com/pt-br/courses/networking/networking-essentials
-
-
 
 ## Sistemas Operacionais
 
@@ -76,3 +74,7 @@ https://desecsecurity.com/academy
 Web Fundamentals, Jr Penetration Tester e Offensive Pentesting - TryHackMe
 
 https://tryhackme.com/paths
+
+Qualquer dúvidas estou à disposição, para network no linkedin:
+
+https://linkedin.com/in/rodolfomarianocy
