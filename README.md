@@ -3,7 +3,7 @@
 
 
 ## Redes
--> Network Essentials - netacad
+Network Essentials - netacad
 
 https://www.netacad.com/pt-br/courses/networking/networking-essentials
 
