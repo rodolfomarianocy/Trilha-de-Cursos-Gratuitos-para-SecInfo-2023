@@ -1,4 +1,5 @@
-# Essa trilha engloba diversos links de cursos gratuítos, de modo a orientar quem está iniciando na área, e ela segue ordem sequencial de aprendizado.
+# Trilha de Cursos Gratuitos para SecInfo
+### Essa trilha engloba diversos links de cursos gratuítos, de modo a orientar quem está iniciando na área, e ela segue ordem sequencial de aprendizado.
 
 
 ## Redes
