@@ -10,7 +10,7 @@ https://www.netacad.com/pt-br/courses/networking/networking-essentials
 
 Linux Fundamentals - 4linux
 
-https://4linux.com.br/cursos/treinamento/linux-fundamentals/
+`https://4linux.com.br/cursos/treinamento/linux-fundamentals/`
 
 ## Programação
 
