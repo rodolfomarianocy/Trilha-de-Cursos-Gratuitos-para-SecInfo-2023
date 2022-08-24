@@ -3,7 +3,7 @@
 
 ## Redes
 
--> Network Essentials - Cisco (netacad) 
+-> Network Essentials - Cisco (netacad)  
 https://www.netacad.com/pt-br/courses/networking/networking-essentials
 
 ## Sistemas Operacionais
@@ -71,6 +71,7 @@ https://esecurity.com.br/cursos/introducao-a-seguranca-da-informacao/
 -> Penetration Testing - INE - eJPT preparation  
 https://my.ine.com/CyberSecurity/courses/6f986ca5/penetration-testing-basics
 
-#### -> Qualquer dúvidas estou à disposição, para network no linkedin:
+---
+Rede social para network no linkedin:
 
 https://linkedin.com/in/rodolfomarianocy
