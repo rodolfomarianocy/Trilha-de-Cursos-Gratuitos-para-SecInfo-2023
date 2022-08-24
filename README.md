@@ -25,7 +25,7 @@ https://materiais.napratica.org.br/cc50
 -> Fundamentos de Lógica de Programação - Fundação Bradesco    
 https://www.ev.org.br/cursos/fundamentos-de-logica-de-programacao
 
--> Desenvolvimento para Internet e Banco de Dados com Python e Django - DIO
+-> Desenvolvimento para Internet e Banco de Dados com Python e Django - DIO  
 https://web.dio.me/course/desenvolvimento-para-internet-e-banco-de-dados-com-python-e-django/learning/d1e01e99-4468-4119-8962-82e5ea80b118/?back=/home
 
 -> Introdução à programação com Python - DIO  
