@@ -25,6 +25,9 @@ https://materiais.napratica.org.br/cc50
 -> Fundamentos de Lógica de Programação - Fundação Bradesco    
 https://www.ev.org.br/cursos/fundamentos-de-logica-de-programacao
 
+-> Primeiros Passos para Desenvolvimento Weeb
+https://web.dio.me/course/primeiros-passos-para-desenvolvimento-web/learning/9a77b82b-03d2-413f-a28b-18ac6c5fa725?back=/home
+
 -> Desenvolvimento para Internet e Banco de Dados com Python e Django - DIO  
 https://web.dio.me/course/desenvolvimento-para-internet-e-banco-de-dados-com-python-e-django/learning/d1e01e99-4468-4119-8962-82e5ea80b118/?back=/home
 
