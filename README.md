@@ -51,7 +51,7 @@ https://www.dio.me/
 https://solyd.com.br/treinamentos/introducao-ao-hacking-e-pentest-2/
 
 -> Introdução ao Pentest na Prática  
-https://desecsecurity.com/academy
+https://desecsecurity.com/curso/introducao-pentest
 
 -> Introdução a Segurança da Informação - eSecurity  
 https://esecurity.com.br/cursos/introducao-a-seguranca-da-informacao/
