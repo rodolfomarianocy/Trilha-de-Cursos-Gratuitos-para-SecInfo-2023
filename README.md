@@ -39,7 +39,7 @@ https://solyd.com.br/treinamentos/python-basico/
 -> Cursos de Cloud - AWS    
 https://explore.skillbuilder.aws/learn/signin
 
--> Eventos Microsoft LATAM  Brasil -  Treinamentos online gratuítos com vouncher incluso para provas como AZ-900, etc  
+-> Treinamentos ao vivo gratuítos com vouncher incluso para provas da Microsoft como AZ-900 e outras - Microsoft    
 https://www.microsoft.com/pt-br/events-hub/
 
 ## Introdução à Segurança da Informação
