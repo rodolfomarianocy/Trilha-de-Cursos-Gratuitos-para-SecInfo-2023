@@ -2,7 +2,8 @@
 #### Essa trilha engloba diversos links de cursos com certificados e gratuitos, de modo a orientar quem está iniciando na área, e ela segue uma ordem sequencial de aprendizagem.
 
 ## Redes
--> Network Essentials - netacad  
+
+-> Network Essentials - Cisco (netacad) 
 https://www.netacad.com/pt-br/courses/networking/networking-essentials
 
 ## Sistemas Operacionais
@@ -28,9 +29,6 @@ https://www.microsoft.com/pt-br/events-hub/
 
 ## Introdução à Segurança da Informação
 
--> Pre-Security - TryHackMe  
-https://tryhackme.com/paths
-
 -> Introduction to CyberSecurity - Cisco  
 https://www.netacad.com/pt-br/courses/cybersecurity/introduction-cybersecurity
 
@@ -40,9 +38,23 @@ https://www.ev.org.br/cursos/seguranca-em-tecnologia-da-informacao
 -> Network Secure Associate 1 ao 3 - Fortinet  
 https://www.fortinet.com/training-certification
 
-## Programação + SecInfo  
-Segurança da informação com Python - Digital Innovation
+-> TryHackMe  
+https://tryhackme.com/paths
 
+## Other topics
+
+-> Foundations of Operationalizing MITRE ATT&CK  
+https://academy.attackiq.com/courses/foundations-of-operationalizing-mitre-attck
+
+-> Breach & Attack Simulation  
+https://academy.attackiq.com/learning-paths/breach-attack-simulation
+
+-> Purple Teaming  
+https://academy.attackiq.com/learning-paths/purple-teaming
+
+## Programação + SecInfo  
+
+-> Segurança da informação com Python - Digital Innovation  
 https://www.dio.me/
 
 ## Pentest na Prática
@@ -58,12 +70,6 @@ https://esecurity.com.br/cursos/introducao-a-seguranca-da-informacao/
 
 -> Penetration Testing - INE - eJPT preparation  
 https://my.ine.com/CyberSecurity/courses/6f986ca5/penetration-testing-basics
-
-Web Fundamentals, Jr Penetration Tester e Offensive Pentesting - TryHackMe
-
-https://tryhackme.com/paths
-
-##
 
 #### -> Qualquer dúvidas estou à disposição, para network no linkedin:
 
