@@ -1,5 +1,5 @@
 # Trilha de cursos gratuitos para Segurança da Informação
-#### Essa trilha engloba diversos links de cursos com certificados e gratuitos, de modo a orientar quem está iniciando na área, e ela segue uma ordem sequencial de aprendizagem.
+#### Essa trilha engloba diversos links de cursos com certificados e gratuitos, de modo a orientar quem está iniciando na área seguindo uma ordem sequencial de aprendizado.
 
 ## Fundamentos TI e Sistemas Operacionais
 
