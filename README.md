@@ -44,6 +44,9 @@ https://www.microsoft.com/pt-br/events-hub/
 
 ## Introdução à Segurança da Informação
 
+-> CyberSecurity  
+https://www.eucapacito.com.br/curso-ec/cybersecurity/
+
 -> Introduction to CyberSecurity - Cisco(netacad)  
 https://www.netacad.com/pt-br/courses/cybersecurity/introduction-cybersecurity
 
