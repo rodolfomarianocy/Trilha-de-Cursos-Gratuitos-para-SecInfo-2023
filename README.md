@@ -83,9 +83,6 @@ https://desecsecurity.com/curso/introducao-pentest
 -> Introdução a Segurança da Informação - eSecurity  
 https://esecurity.com.br/cursos/introducao-a-seguranca-da-informacao/
 
--> Penetration Testing Basics - INE (eJPT preparation)  
-https://my.ine.com/CyberSecurity/courses/6f986ca5/penetration-testing-basics
-
 ---
 Rede social para network no linkedin:
 
