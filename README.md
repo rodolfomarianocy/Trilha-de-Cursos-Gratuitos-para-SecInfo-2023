@@ -6,7 +6,7 @@
 -> Fundamentos de TI: Hardware e Software - Fundação Bradesco  
 https://www.ev.org.br/cursos/fundamentos-de-ti-hardware-e-software
 
--> Linux Fundamentals - 4linux  
+-> Linux Fundamentals - 4Linux  
 https://4linux.com.br/cursos/treinamento/linux-fundamentals/
 
 ## Redes
@@ -34,7 +34,7 @@ https://web.dio.me/course/desenvolvimento-para-internet-e-banco-de-dados-com-pyt
 -> Introdução à programação com Python - DIO  
 https://web.dio.me/course/introducao-a-programacao-com-python/learning/1a4f5956-fe77-4e5a-bc3a-5364e06b5c79/?back=/home
 
--> Python Básico - Solyd  
+-> Python Básico - Solyd Offensive Security  
 https://solyd.com.br/treinamentos/python-basico/
 
 ## Cloud Básico
