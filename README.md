@@ -19,7 +19,7 @@ https://www.netacad.com/pt-br/courses/networking/networking-essentials
 
 ## Programação
  
--> CS50: Introduction to Computer Science - Havard  
+-> CS50: Introduction to Computer Science - Harvard University  
 https://materiais.napratica.org.br/cc50
 
 -> Fundamentos de Lógica de Programação - Fundação Bradesco    
@@ -47,7 +47,7 @@ https://www.microsoft.com/pt-br/events-hub/
 
 ## Introdução à Segurança da Informação
 
--> Introduction to CyberSecurity - Cisco(netacad)  
+-> Introduction to CyberSecurity - Cisco (netacad)  
 https://www.netacad.com/pt-br/courses/cybersecurity/introduction-cybersecurity
 
 -> CyberSecurity  - FIAP  
@@ -64,7 +64,7 @@ https://tryhackme.com/paths
 
 ## Other topics
 
--> Foundations of Operationalizing MITRE ATT&CK  
+-> Foundations of Operationalizing MITRE ATT&CK - ATTACKIQ
 https://academy.attackiq.com/courses/foundations-of-operationalizing-mitre-attck
 
 -> Breach & Attack Simulation  
@@ -73,7 +73,7 @@ https://academy.attackiq.com/learning-paths/breach-attack-simulation
 -> Purple Teaming  
 https://academy.attackiq.com/learning-paths/purple-teaming
 
-## Programação + SecInfo  
+## Programação + SecInfo 
 
 -> Segurança da informação com Python - DIO  
 https://web.dio.me/course/seguranca-da-informacao-com-python/learning/697c7fa0-5e12-49cd-9496-2b61dd037259/?back=/home  
