@@ -25,7 +25,7 @@ https://materiais.napratica.org.br/cc50
 -> Fundamentos de Lógica de Programação - Fundação Bradesco    
 https://www.ev.org.br/cursos/fundamentos-de-logica-de-programacao
 
--> Primeiros Passos para Desenvolvimento Web  
+-> Primeiros Passos para Desenvolvimento Web - DIO
 https://web.dio.me/course/primeiros-passos-para-desenvolvimento-web/learning/9a77b82b-03d2-413f-a28b-18ac6c5fa725?back=/home
 
 -> Desenvolvimento para Internet e Banco de Dados com Python e Django - DIO  
@@ -42,7 +42,7 @@ https://solyd.com.br/treinamentos/python-basico/
 -> Cursos de Cloud - AWS    
 https://explore.skillbuilder.aws/learn/signin
 
--> Treinamentos ao vivo gratuítos com vouncher incluso para provas da Microsoft como AZ-900 e outras - Microsoft    
+-> Treinamentos ao vivo gratuítos com vouncher incluso para provas da Microsoft como AZ-900 e outras - Microsoft  
 https://www.microsoft.com/pt-br/events-hub/
 
 ## Introdução à Segurança da Informação
@@ -50,7 +50,7 @@ https://www.microsoft.com/pt-br/events-hub/
 -> Introduction to CyberSecurity - Cisco (netacad)  
 https://www.netacad.com/pt-br/courses/cybersecurity/introduction-cybersecurity
 
--> CyberSecurity  - FIAP  
+-> CyberSecurity - FIAP  
 https://www.eucapacito.com.br/curso-ec/cybersecurity/
 
 -> Segurança em Tecnologia da Informação - Fundação Bradesco  
@@ -67,10 +67,10 @@ https://tryhackme.com/paths
 -> Foundations of Operationalizing MITRE ATT&CK - ATTACKIQ  
 https://academy.attackiq.com/courses/foundations-of-operationalizing-mitre-attck
 
--> Breach & Attack Simulation  
+-> Breach & Attack Simulation - ATTACKIQ
 https://academy.attackiq.com/learning-paths/breach-attack-simulation
 
--> Purple Teaming  
+-> Purple Teaming - ATTACKIQ
 https://academy.attackiq.com/learning-paths/purple-teaming
 
 ## Programação + SecInfo 
@@ -80,16 +80,15 @@ https://web.dio.me/course/seguranca-da-informacao-com-python/learning/697c7fa0-5
 
 ## Pentest na Prática
 
--> Introdução ao Hacking e Pentest 2.0 - Solyd  
+-> Introdução ao Hacking e Pentest 2.0 - Solyd Offensive Security  
 https://solyd.com.br/treinamentos/introducao-ao-hacking-e-pentest-2/
 
--> Introdução ao Pentest na Prática - Desec  
+-> Introdução ao Pentest na Prática - Desec Security  
 https://desecsecurity.com/curso/introducao-pentest
 
 -> Introdução a Segurança da Informação - eSecurity  
 https://esecurity.com.br/cursos/introducao-a-seguranca-da-informacao/
 
 ---
-Rede social para network no linkedin:
-
+Rede social para network no linkedin:  
 https://linkedin.com/in/rodolfomarianocy
