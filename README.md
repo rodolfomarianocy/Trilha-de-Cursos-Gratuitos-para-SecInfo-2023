@@ -67,10 +67,10 @@ https://tryhackme.com/paths
 -> Foundations of Operationalizing MITRE ATT&CK - ATTACKIQ  
 https://academy.attackiq.com/courses/foundations-of-operationalizing-mitre-attck
 
--> Breach & Attack Simulation - ATTACKIQ
+-> Breach & Attack Simulation - ATTACKIQ  
 https://academy.attackiq.com/learning-paths/breach-attack-simulation
 
--> Purple Teaming - ATTACKIQ
+-> Purple Teaming - ATTACKIQ  
 https://academy.attackiq.com/learning-paths/purple-teaming
 
 ## Programação + SecInfo 
