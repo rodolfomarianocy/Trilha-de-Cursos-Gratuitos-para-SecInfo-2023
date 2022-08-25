@@ -64,7 +64,7 @@ https://tryhackme.com/paths
 
 ## Other topics
 
--> Foundations of Operationalizing MITRE ATT&CK - ATTACKIQ
+-> Foundations of Operationalizing MITRE ATT&CK - ATTACKIQ  
 https://academy.attackiq.com/courses/foundations-of-operationalizing-mitre-attck
 
 -> Breach & Attack Simulation  
