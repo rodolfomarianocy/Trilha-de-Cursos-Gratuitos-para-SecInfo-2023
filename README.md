@@ -73,9 +73,6 @@ https://www.ev.org.br/cursos/seguranca-em-tecnologia-da-informacao
 -> Network Security Associate 1 ao 3 - Fortinet  
 https://www.fortinet.com/training-certification
 
--> TryHackMe  
-https://tryhackme.com/paths
-
 ## Other topics
 
 -> Foundations of Operationalizing MITRE ATT&CK - AttackIQ  
