@@ -9,6 +9,9 @@ https://www.ev.org.br/cursos/fundamentos-de-ti-hardware-e-software
 -> Linux Fundamentals - 4Linux  
 https://4linux.com.br/cursos/treinamento/linux-fundamentals/
 
+-> Linux Fundamentos - FIAP  
+https://www.eucapacito.com.br/curso-ec/linux-fundamentos/
+
 ## Redes
 
 -> Introdução a Redes de Computadores - Fundação Bradesco  
@@ -22,7 +25,7 @@ https://www.netacad.com/pt-br/courses/networking/networking-essentials
 -> CS50: Introduction to Computer Science - Harvard University  
 https://materiais.napratica.org.br/cc50
 
--> Fundamentos de Lógica de Programação - Fundação Bradesco    
+-> Fundamentos de Lógica de Programação - Fundação Bradesco  
 https://www.ev.org.br/cursos/fundamentos-de-logica-de-programacao
 
 -> Primeiros Passos para Desenvolvimento Web - DIO  
@@ -34,17 +37,20 @@ https://web.dio.me/course/desenvolvimento-para-internet-e-banco-de-dados-com-pyt
 -> Introdução à programação com Python - DIO  
 https://web.dio.me/course/introducao-a-programacao-com-python/learning/1a4f5956-fe77-4e5a-bc3a-5364e06b5c79/?back=/home
 
+-> Java Fundamentos - FIAP  
+https://www.eucapacito.com.br/curso-ec/java-fundamentos/
+
 -> Python Básico - Solyd Offensive Security  
 https://solyd.com.br/treinamentos/python-basico/
 
 ## Cloud Básico
--> Primeiros passos com AWS  
+-> Primeiros passos com AWS - DIO  
 https://web.dio.me/course/primeiros-passos-com-aws/learning/726666b9-d62e-4957-9cab-2ce3aca2e3fa/?back=/home
 
--> Introdução prática a computação em nuvem usando AWS  
+-> Introdução prática a computação em nuvem usando AWS - DIO  
 https://web.dio.me/course/Introducao-pratica-a-computacao-em-nuvem-usando-AWS/learning/e5310041-3a80-44d5-bd22-ebc4ff548c67/?back=/home
 
--> Cursos de Cloud - AWS    
+-> Cursos de Cloud - AWS  
 https://explore.skillbuilder.aws/learn/signin
 
 -> Treinamentos ao vivo gratuítos com vouncher incluso para provas da Microsoft como AZ-900 e outras - Microsoft  
@@ -55,7 +61,7 @@ https://www.microsoft.com/pt-br/events-hub/
 -> Introduction to CyberSecurity - Cisco (netacad)  
 https://www.netacad.com/pt-br/courses/cybersecurity/introduction-cybersecurity
 
--> CyberSecurity Essentials  
+-> CyberSecurity Essentials - Cisco (netacad)
 https://www.netacad.com/pt-br/courses/cybersecurity/cybersecurity-essentials
 
 -> CyberSecurity - FIAP  
@@ -72,13 +78,13 @@ https://tryhackme.com/paths
 
 ## Other topics
 
--> Foundations of Operationalizing MITRE ATT&CK - ATTACKIQ  
+-> Foundations of Operationalizing MITRE ATT&CK - AttackIQ  
 https://academy.attackiq.com/courses/foundations-of-operationalizing-mitre-attck
 
--> Breach & Attack Simulation - ATTACKIQ  
+-> Breach & Attack Simulation - AtackIQ  
 https://academy.attackiq.com/learning-paths/breach-attack-simulation
 
--> Purple Teaming - ATTACKIQ  
+-> Purple Teaming - AttackIQ  
 https://academy.attackiq.com/learning-paths/purple-teaming
 
 ## Programação + SecInfo 
