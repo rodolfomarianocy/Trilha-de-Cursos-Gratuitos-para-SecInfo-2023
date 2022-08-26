@@ -38,6 +38,11 @@ https://web.dio.me/course/introducao-a-programacao-com-python/learning/1a4f5956-
 https://solyd.com.br/treinamentos/python-basico/
 
 ## Cloud Básico
+-> Primeiros passos com AWS  
+https://web.dio.me/course/primeiros-passos-com-aws/learning/726666b9-d62e-4957-9cab-2ce3aca2e3fa/?back=/home
+
+-> Introdução prática a computação em nuvem usando AWS  
+https://web.dio.me/course/Introducao-pratica-a-computacao-em-nuvem-usando-AWS/learning/e5310041-3a80-44d5-bd22-ebc4ff548c67/?back=/home
 
 -> Cursos de Cloud - AWS    
 https://explore.skillbuilder.aws/learn/signin
