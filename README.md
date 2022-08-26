@@ -55,6 +55,9 @@ https://www.microsoft.com/pt-br/events-hub/
 -> Introduction to CyberSecurity - Cisco (netacad)  
 https://www.netacad.com/pt-br/courses/cybersecurity/introduction-cybersecurity
 
+-> CyberSecurity Essentials  
+https://www.netacad.com/pt-br/courses/cybersecurity/cybersecurity-essentials
+
 -> CyberSecurity - FIAP  
 https://www.eucapacito.com.br/curso-ec/cybersecurity/
 
