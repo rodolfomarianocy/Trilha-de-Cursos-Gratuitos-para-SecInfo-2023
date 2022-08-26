@@ -61,7 +61,7 @@ https://www.microsoft.com/pt-br/events-hub/
 -> Introduction to CyberSecurity - Cisco (netacad)  
 https://www.netacad.com/pt-br/courses/cybersecurity/introduction-cybersecurity
 
--> CyberSecurity Essentials - Cisco (netacad)
+-> CyberSecurity Essentials - Cisco (netacad)  
 https://www.netacad.com/pt-br/courses/cybersecurity/cybersecurity-essentials
 
 -> CyberSecurity - FIAP  
@@ -70,7 +70,7 @@ https://www.eucapacito.com.br/curso-ec/cybersecurity/
 -> Segurança em Tecnologia da Informação - Fundação Bradesco  
 https://www.ev.org.br/cursos/seguranca-em-tecnologia-da-informacao
 
--> Network Secure Associate 1 ao 3 - Fortinet  
+-> Network Security Associate 1 ao 3 - Fortinet  
 https://www.fortinet.com/training-certification
 
 -> TryHackMe  
