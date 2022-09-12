@@ -97,8 +97,7 @@ https://solyd.com.br/treinamentos/introducao-ao-hacking-e-pentest-2/
 -> Introdução ao Pentest na Prática - Desec Security  
 https://desecsecurity.com/curso/introducao-pentest
 
--> Introdução a Segurança da Informação - eSecurity (Curso da eJPT)
-
+-> Introdução a Segurança da Informação - eSecurity (Curso da eJPT)  
 https://esecurity.com.br/cursos/introducao-a-seguranca-da-informacao/
 
 ---
