@@ -98,8 +98,7 @@ https://solyd.com.br/treinamentos/introducao-ao-hacking-e-pentest-2/
 https://desecsecurity.com/curso/introducao-pentest
 
 -> Introdução a Segurança da Informação - eSecurity (Curso da eJPT)  
-https://esecurity.com.br/cursos/introducao-a-seguranca-da-informacao/
-
+https://my.ine.com/CyberSecurity/courses/6f986ca5/penetration-testing-basics
 ---
 Rede social para network no linkedin:  
 https://linkedin.com/in/rodolfomarianocy
