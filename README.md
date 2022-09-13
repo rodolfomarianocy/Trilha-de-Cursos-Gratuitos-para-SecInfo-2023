@@ -1,5 +1,5 @@
 # Trilha de cursos gratuitos para Segurança da Informação
-#### Essa trilha engloba diversos links de cursos gratuitos e a maioria com certificados de modo a orientar quem está iniciando na área, a mesma segue uma ordem de aprendizado sequencial.
+#### Essa trilha engloba diversos links de cursos gratuitos e a maioria com certificados inclusos de modo a orientar quem está iniciando na área, a mesma segue uma ordem de aprendizado sequencial.
 
 ## Fundamentos TI e Sistemas Operacionais
 
@@ -97,8 +97,12 @@ https://solyd.com.br/treinamentos/introducao-ao-hacking-e-pentest-2/
 -> Introdução ao Pentest na Prática - Desec Security  
 https://desecsecurity.com/curso/introducao-pentest
 
--> eLearnSecurity (Curso da eJPT)  
+-> Penetration Testing Basics - eLearnSecurity (Curso da eJPT)  
 https://my.ine.com/CyberSecurity/courses/6f986ca5/penetration-testing-basics
+
+-> API Security Certified Expert - APISEC UNIVERSITY
+https://university.apisec.ai/apisec-certified-expert
+
 ---
 Rede social para network no linkedin:  
 https://linkedin.com/in/rodolfomarianocy
