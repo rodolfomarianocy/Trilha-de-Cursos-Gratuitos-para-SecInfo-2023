@@ -100,7 +100,7 @@ https://desecsecurity.com/curso/introducao-pentest
 -> Penetration Testing Basics - eLearnSecurity (Curso da eJPT)  
 https://my.ine.com/CyberSecurity/courses/6f986ca5/penetration-testing-basics
 
--> API Security Certified Expert - APISEC UNIVERSITY
+-> API Security Certified Expert - APISEC UNIVERSITY  
 https://university.apisec.ai/apisec-certified-expert
 
 ---
