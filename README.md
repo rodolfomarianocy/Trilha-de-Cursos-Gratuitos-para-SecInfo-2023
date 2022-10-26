@@ -1,6 +1,6 @@
 # Trilha de cursos gratuitos para Segurança da Informação
 #### Essa trilha engloba diversos links de cursos gratuitos e a maioria com certificados inclusos de modo a orientar quem está iniciando na área, a mesma segue uma ordem de aprendizado sequencial.
-InfSec free courses!!!!
+InfSec free courses!!!! (TOP COURSES!!!!!)
 
 ## Fundamentos TI e Sistemas Operacionais
 
