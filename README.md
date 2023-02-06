@@ -2,7 +2,6 @@
 #### Essa trilha engloba diversos links de cursos gratuitos e com certificados inclusos de modo a orientar quem está iniciando na área, a mesma segue uma ordem de aprendizado sequencial.
 
 ## Fundamentos TI e Sistemas Operacionais
-
 -> Fundamentos de TI: Hardware e Software - Fundação Bradesco  
 https://www.ev.org.br/cursos/fundamentos-de-ti-hardware-e-software
 
@@ -13,7 +12,6 @@ https://4linux.com.br/cursos/treinamento/linux-fundamentals/
 https://www.eucapacito.com.br/curso-ec/linux-fundamentos/
 
 ## Redes
-
 -> Introdução a Redes de Computadores - Fundação Bradesco  
 https://www.ev.org.br/cursos/introducao-a-redes-de-computadores
 
@@ -21,7 +19,6 @@ https://www.ev.org.br/cursos/introducao-a-redes-de-computadores
 https://www.netacad.com/pt-br/courses/networking/networking-essentials
 
 ## Programação
- 
 -> CS50: Introduction to Computer Science - Harvard University  
 https://materiais.napratica.org.br/cc50
 
@@ -57,7 +54,6 @@ https://explore.skillbuilder.aws/learn/signin
 https://www.microsoft.com/pt-br/events-hub/
 
 ## Introdução à Segurança da Informação
-
 -> Introduction to CyberSecurity - Cisco (netacad)  
 https://www.netacad.com/pt-br/courses/cybersecurity/introduction-cybersecurity
 
@@ -66,6 +62,9 @@ https://www.netacad.com/pt-br/courses/cybersecurity/cybersecurity-essentials
 
 -> CyberSecurity - FIAP  
 https://www.eucapacito.com.br/curso-ec/cybersecurity/
+
+-> Certified in Cybersecurity (CC) - ISC  
+https://www.isc2.org/landing/1MCC#  
 
 -> Segurança em Tecnologia da Informação - Fundação Bradesco  
 https://www.ev.org.br/cursos/seguranca-em-tecnologia-da-informacao
@@ -78,8 +77,8 @@ https://training.fortinet.com/local/staticpage/view.php?page=nse_2
 
 -> Network Security Associate 3 (NSE3) - Fortinet   
 https://training.fortinet.com/local/staticpage/view.php?page=nse_3
-## Other topics
 
+## Other topics
 -> Foundations of Operationalizing MITRE ATT&CK - AttackIQ  
 https://academy.attackiq.com/courses/foundations-of-operationalizing-mitre-attck
 
@@ -99,12 +98,10 @@ https://codered.eccouncil.org/course/digital-forensics-essentials?logged=false
 https://codered.eccouncil.org/course/network-defense-essentials?logged=false  
 
 ## Programação + SecInfo 
-
 -> Segurança da informação com Python - DIO  
 https://web.dio.me/course/seguranca-da-informacao-com-python/learning/697c7fa0-5e12-49cd-9496-2b61dd037259/?back=/home  
 
 ## Pentest na Prática
-
 -> Introdução ao Hacking e Pentest 2.0 - Solyd Offensive Security  
 https://solyd.com.br/treinamentos/introducao-ao-hacking-e-pentest-2/
 
