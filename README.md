@@ -70,8 +70,13 @@ https://www.eucapacito.com.br/curso-ec/cybersecurity/
 -> Segurança em Tecnologia da Informação - Fundação Bradesco  
 https://www.ev.org.br/cursos/seguranca-em-tecnologia-da-informacao
 
--> Network Security Associate 1 ao 3 - Fortinet  
-https://www.fortinet.com/training-certification
+-> Network Security Associate 1 (NSE1) - Fortinet  
+https://training.fortinet.com/local/staticpage/view.php?page=nse_1  
+
+-> Network Security Associate 2 (NSE2) - Fortinet  
+https://training.fortinet.com/local/staticpage/view.php?page=nse_2  
+
+-> Network Security Associate 3 (NSE3) - Fortinet   
 
 ## Other topics
 
