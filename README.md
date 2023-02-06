@@ -77,7 +77,7 @@ https://training.fortinet.com/local/staticpage/view.php?page=nse_1
 https://training.fortinet.com/local/staticpage/view.php?page=nse_2  
 
 -> Network Security Associate 3 (NSE3) - Fortinet   
-
+https://training.fortinet.com/local/staticpage/view.php?page=nse_3
 ## Other topics
 
 -> Foundations of Operationalizing MITRE ATT&CK - AttackIQ  
@@ -87,7 +87,16 @@ https://academy.attackiq.com/courses/foundations-of-operationalizing-mitre-attck
 https://academy.attackiq.com/learning-paths/breach-attack-simulation
 
 -> Purple Teaming - AttackIQ  
-https://academy.attackiq.com/learning-paths/purple-teaming
+https://academy.attackiq.com/learning-paths/purple-teaming  
+
+-> Ethical Hacking Essentials (EHE)  
+https://codered.eccouncil.org/course/ethical-hacking-essentials?logged=false  
+
+-> Digital Forensics Essentials (DFE)  
+https://codered.eccouncil.org/course/digital-forensics-essentials?logged=false  
+
+-> Network Defense Essentials (NDE)  
+https://codered.eccouncil.org/course/network-defense-essentials?logged=false  
 
 ## Programação + SecInfo 
 
