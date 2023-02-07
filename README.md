@@ -40,6 +40,18 @@ https://www.eucapacito.com.br/curso-ec/java-fundamentos/
 
 -> Python Básico - Solyd Offensive Security  
 https://solyd.com.br/treinamentos/python-basico/
+## Cloud Básico
+-> Primeiros passos com AWS - DIO  
+https://web.dio.me/course/primeiros-passos-com-aws/learning/726666b9-d62e-4957-9cab-2ce3aca2e3fa/?back=/home
+
+-> Introdução prática a computação em nuvem usando AWS - DIO  
+https://web.dio.me/course/Introducao-pratica-a-computacao-em-nuvem-usando-AWS/learning/e5310041-3a80-44d5-bd22-ebc4ff548c67/?back=/home
+
+-> Cursos de Cloud - AWS  
+https://explore.skillbuilder.aws/learn/signin
+
+-> Treinamentos ao vivo gratuítos com vouncher incluso para provas da Microsoft como AZ-900 e outras - Microsoft  
+https://www.microsoft.com/pt-br/events-hub/
 
 ## Introdução à Segurança da Informação
 -> Introduction to CyberSecurity - Cisco (netacad)  
@@ -66,6 +78,20 @@ https://training.fortinet.com/local/staticpage/view.php?page=nse_2
 -> Network Security Associate 3 (NSE3) - Fortinet   
 https://training.fortinet.com/local/staticpage/view.php?page=nse_3
 
+## Programação + SecInfo 
+-> Segurança da informação com Python - DIO  
+https://web.dio.me/course/seguranca-da-informacao-com-python/learning/697c7fa0-5e12-49cd-9496-2b61dd037259/?back=/home  
+
+## Pentest na Prática
+-> Introdução ao Hacking e Pentest 2.0 - Solyd Offensive Security  
+https://solyd.com.br/treinamentos/introducao-ao-hacking-e-pentest-2/
+
+-> Introdução ao Pentest na Prática - Desec Security  
+https://desecsecurity.com/curso/introducao-pentest
+
+-> API Security Certified Expert - APISEC UNIVERSITY  
+https://university.apisec.ai/apisec-certified-expert
+
 ## Other topics
 -> Foundations of Operationalizing MITRE ATT&CK - AttackIQ  
 https://academy.attackiq.com/courses/foundations-of-operationalizing-mitre-attck
@@ -85,32 +111,6 @@ https://codered.eccouncil.org/course/digital-forensics-essentials?logged=false
 -> Network Defense Essentials (NDE)  
 https://codered.eccouncil.org/course/network-defense-essentials?logged=false  
 
-## Programação + SecInfo 
--> Segurança da informação com Python - DIO  
-https://web.dio.me/course/seguranca-da-informacao-com-python/learning/697c7fa0-5e12-49cd-9496-2b61dd037259/?back=/home  
-
-## Pentest na Prática
--> Introdução ao Hacking e Pentest 2.0 - Solyd Offensive Security  
-https://solyd.com.br/treinamentos/introducao-ao-hacking-e-pentest-2/
-
--> Introdução ao Pentest na Prática - Desec Security  
-https://desecsecurity.com/curso/introducao-pentest
-
--> API Security Certified Expert - APISEC UNIVERSITY  
-https://university.apisec.ai/apisec-certified-expert
-
-## Cloud Básico
--> Primeiros passos com AWS - DIO  
-https://web.dio.me/course/primeiros-passos-com-aws/learning/726666b9-d62e-4957-9cab-2ce3aca2e3fa/?back=/home
-
--> Introdução prática a computação em nuvem usando AWS - DIO  
-https://web.dio.me/course/Introducao-pratica-a-computacao-em-nuvem-usando-AWS/learning/e5310041-3a80-44d5-bd22-ebc4ff548c67/?back=/home
-
--> Cursos de Cloud - AWS  
-https://explore.skillbuilder.aws/learn/signin
-
--> Treinamentos ao vivo gratuítos com vouncher incluso para provas da Microsoft como AZ-900 e outras - Microsoft  
-https://www.microsoft.com/pt-br/events-hub/
 ---
 Rede social para network:  
 https://linkedin.com/in/rodolfomarianocy
