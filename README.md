@@ -41,19 +41,6 @@ https://www.eucapacito.com.br/curso-ec/java-fundamentos/
 -> Python Básico - Solyd Offensive Security  
 https://solyd.com.br/treinamentos/python-basico/
 
-## Cloud Básico
--> Primeiros passos com AWS - DIO  
-https://web.dio.me/course/primeiros-passos-com-aws/learning/726666b9-d62e-4957-9cab-2ce3aca2e3fa/?back=/home
-
--> Introdução prática a computação em nuvem usando AWS - DIO  
-https://web.dio.me/course/Introducao-pratica-a-computacao-em-nuvem-usando-AWS/learning/e5310041-3a80-44d5-bd22-ebc4ff548c67/?back=/home
-
--> Cursos de Cloud - AWS  
-https://explore.skillbuilder.aws/learn/signin
-
--> Treinamentos ao vivo gratuítos com vouncher incluso para provas da Microsoft como AZ-900 e outras - Microsoft  
-https://www.microsoft.com/pt-br/events-hub/
-
 ## Introdução à Segurança da Informação
 -> Introduction to CyberSecurity - Cisco (netacad)  
 https://www.netacad.com/pt-br/courses/cybersecurity/introduction-cybersecurity
@@ -112,6 +99,18 @@ https://desecsecurity.com/curso/introducao-pentest
 -> API Security Certified Expert - APISEC UNIVERSITY  
 https://university.apisec.ai/apisec-certified-expert
 
+## Cloud Básico
+-> Primeiros passos com AWS - DIO  
+https://web.dio.me/course/primeiros-passos-com-aws/learning/726666b9-d62e-4957-9cab-2ce3aca2e3fa/?back=/home
+
+-> Introdução prática a computação em nuvem usando AWS - DIO  
+https://web.dio.me/course/Introducao-pratica-a-computacao-em-nuvem-usando-AWS/learning/e5310041-3a80-44d5-bd22-ebc4ff548c67/?back=/home
+
+-> Cursos de Cloud - AWS  
+https://explore.skillbuilder.aws/learn/signin
+
+-> Treinamentos ao vivo gratuítos com vouncher incluso para provas da Microsoft como AZ-900 e outras - Microsoft  
+https://www.microsoft.com/pt-br/events-hub/
 ---
 Rede social para network:  
 https://linkedin.com/in/rodolfomarianocy
