@@ -2,7 +2,7 @@
 #### Essa trilha engloba diversos links de cursos gratuitos e com certificados inclusos de modo a orientar quem está iniciando na área, a mesma segue uma ordem de aprendizado sequencial. 
 Atualizado - 2023 [X]
 
-## Fundamentos TI e Sistemas Operacionais
+## Fundamentos de TI e Sistemas Operacionais
 -> Fundamentos de TI: Hardware e Software - Fundação Bradesco  
 https://www.ev.org.br/cursos/fundamentos-de-ti-hardware-e-software
 
