@@ -41,6 +41,9 @@ https://www.ev.org.br/cursos/fundamentos-de-ti-hardware-e-software
 -> Linux Fundamentos - FIAP  
 https://www.eucapacito.com.br/curso-ec/linux-fundamentos/
 
+-> Linux 100: Fundamentals - TCM SECURITY   
+https://academy.tcm-sec.com/p/linux-fundamentals
+
 ### Redes
 -> Introdução a Redes de Computadores - Fundação Bradesco  
 https://www.ev.org.br/cursos/introducao-a-redes-de-computadores
@@ -57,6 +60,9 @@ https://www.netacad.com/pt/courses/introduction-iot?courseLang=pt-BR
 ### Programação
 -> CS50: Introduction to Computer Science - Harvard University  
 https://materiais.napratica.org.br/cc50
+
+-> Programming 100: Fundamentals - TCM SECURITY    
+https://academy.tcm-sec.com/p/programming-100-fundamentals
 
 -> Fundamentos do Python 1 - CISCO - Networking Academy  
 https://www.netacad.com/pt/courses/python-essentials-1?courseLang=pt-BR
@@ -85,7 +91,7 @@ https://solyd.com.br/treinamentos/python-basico/
 -> Aprendendo com Python - Escola Virtual Gov  
 https://www.escolavirtual.gov.br/curso/629
 
-### Cloud
+### Gerais
 -> Cloud Fundamentals, Administration and Solution Architect - FIAP  
 https://www.eucapacito.com.br/cursos/cloud-fundamentals/
 
@@ -94,6 +100,12 @@ https://web.dio.me/course/primeiros-passos-com-aws/learning/726666b9-d62e-4957-9
 
 -> Introdução prática a computação em nuvem usando AWS - DIO  
 https://web.dio.me/course/Introducao-pratica-a-computacao-em-nuvem-usando-AWS/learning/e5310041-3a80-44d5-bd22-ebc4ff548c67/?back=/home
+
+-> Practical Help Desk - TCM SECURITY  
+https://academy.tcm-sec.com/p/practical-help-desk
+
+-> Soft Skills for the Job Market - TCM SECURITY    
+https://academy.tcm-sec.com/p/soft-skills-for-the-job-market
 
 ### Introdução à Segurança da Informação
 -> Segurança em Tecnologia da Informação - Fundação Bradesco  
