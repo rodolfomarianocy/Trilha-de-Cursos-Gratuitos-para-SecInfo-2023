@@ -4,6 +4,10 @@ Atualizado - 2023 [X]
 Em construção - 2025 [X]
 
 ## Fundamentos de TI e Sistemas Operacionais
+
+-> Primeiros Passos em Tecnologia - Fundação Bradesco  
+https://www.ev.org.br/trilhas-de-conhecimento/primeiros-passos-em-tecnologia
+
 -> Fundamentos de TI: Hardware e Software - Fundação Bradesco  
 https://www.ev.org.br/cursos/fundamentos-de-ti-hardware-e-software
 
@@ -35,12 +39,6 @@ https://www.ev.org.br/cursos/linguagem-de-programacao-python-basico
 
 -> Primeiros Passos para Desenvolvimento Web - DIO  
 https://web.dio.me/course/primeiros-passos-para-desenvolvimento-web/learning/9a77b82b-03d2-413f-a28b-18ac6c5fa725?back=/home
-
--> Desenvolvimento para Internet e Banco de Dados com Python e Django - DIO  
-https://web.dio.me/course/desenvolvimento-para-internet-e-banco-de-dados-com-python-e-django/learning/d1e01e99-4468-4119-8962-82e5ea80b118/?back=/home
-
--> Introdução à programação com Python - DIO  
-https://web.dio.me/course/introducao-a-programacao-com-python/learning/1a4f5956-fe77-4e5a-bc3a-5364e06b5c79/?back=/home
 
 -> Java Development - FIAP  
 https://www.eucapacito.com.br/cursos/java-development/
@@ -97,10 +95,6 @@ https://training.fortinet.com/local/staticpage/view.php?page=fcf_cybersecurity
 
 -> Fortinet Certified Associate Cybersecurity [+]  
 https://training.fortinet.com/local/staticpage/view.php?page=fca_cybersecurity
-
-## Programação + SecInfo 
--> Segurança da informação com Python - DIO  
-https://web.dio.me/course/seguranca-da-informacao-com-python/learning/697c7fa0-5e12-49cd-9496-2b61dd037259/?back=/home  
 
 ## Pentest na Prática
 -> Introdução ao Hacking e Pentest 2.0 - Solyd Offensive Security  
