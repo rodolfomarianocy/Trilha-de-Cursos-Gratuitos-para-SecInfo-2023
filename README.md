@@ -218,7 +218,7 @@ https://app.cybrary.it/browse/course/devsecops
 https://app.cybrary.it/browse/course/owasp
 
 ### GRC (Governança, Riscos e Compliance)
--> 23 cursos de Governança, Risco e Compliance - CYBRARY (Material em inglês)
+-> 22 cursos de Governança, Risco e Compliance - CYBRARY (Material em inglês)
 https://app.cybrary.it/browse/refined?terms_info=domains%7Cgovernance%2C-risk%2C-and-compliance&resultsView=grid&view=course&license=1
 
 -> Fundamentos da Lei Geral de Proteção de Dados - Escola Virtual Gov  
