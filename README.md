@@ -21,8 +21,7 @@
 - [Programação + InfoSec](#programação--infosec)
 - [Áreas](#áreas)
   - [Red Team](#red-team)
-    - [Pentest](#pentest) 
-    - [Mobile Malware](#mobile-malware)
+  - [AppSec](#appsec)
   - [Blue Team](#blue-team)
   - [Purple Team](#red-team)
   - [GRC (Governança, Riscos e Compliance)](#grc-governança-riscos-e-compliance)
@@ -188,13 +187,6 @@ https://www.mobilehackinglab.com/course/offensive-android-programming
 -> Offensive iOS Programming - Mobile Hacking Lab (Material em inglês)  
 https://www.mobilehackinglab.com/course/offensive-ios-programming
 
-### Others
--> Foundations of Breach & Attack Simulation - AtackIQ (Material em inglês)  
-https://www.academy.attackiq.com/courses/foundations-of-breach-attack-simulation
-
--> Foundations of Operationalizing MITRE ATT&CK v13 - AtackIQ (Material em inglês)  
-https://www.academy.attackiq.com/courses/foundations-of-operationalizing-mitre-attck-v13
-
 ### Blue Team
 -> Blue Team Junior Analyst Pathway Bundle - SECURITY BLUE TEAM (Material em inglês)  
 https://www.securityblue.team/courses/blue-team-junior-analyst-pathway-bundle
@@ -205,6 +197,12 @@ https://app.cybrary.it/browse/refined?terms_info=domains%7Cdefensive-security&re
 ### Purple Team
 -> Foundations of Purple Teaming - AttackIQ (Material em inglês)  
 https://www.academy.attackiq.com/courses/foundations-of-purple-teaming
+
+-> Foundations of Breach & Attack Simulation - AtackIQ (Material em inglês)  
+https://www.academy.attackiq.com/courses/foundations-of-breach-attack-simulation
+
+-> Foundations of Operationalizing MITRE ATT&CK v13 - AtackIQ (Material em inglês)  
+https://www.academy.attackiq.com/courses/foundations-of-operationalizing-mitre-attck-v13
 
 ### AppSec
 -> OWASP SAMM Fundamentals - thinkific (Material em inglês)  
