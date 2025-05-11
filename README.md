@@ -40,7 +40,7 @@ https://www.ev.org.br/cursos/fundamentos-de-ti-hardware-e-software
 -> Linux Fundamentos - FIAP  
 https://www.eucapacito.com.br/curso-ec/linux-fundamentos/
 
--> Linux 100: Fundamentals - TCM SECURITY   
+-> Linux 100: Fundamentals - TCM SECURITY (Material em inglês)  
 https://academy.tcm-sec.com/p/linux-fundamentals
 
 ### Redes
@@ -93,7 +93,7 @@ https://web.dio.me/course/primeiros-passos-para-desenvolvimento-web/learning/9a7
 -> CS50: Introduction to Computer Science - Fundação Estudar (Material traduzido do curso CS50 de Harvard University)  
 https://materiais.napratica.org.br/cc50
 
--> Programming 100: Fundamentals - TCM SECURITY    
+-> Programming 100: Fundamentals - TCM SECURITY (Material em inglês)     
 https://academy.tcm-sec.com/p/programming-100-fundamentals
 
 ### Gerais
