@@ -194,6 +194,9 @@ https://www.securityblue.team/courses/blue-team-junior-analyst-pathway-bundle
 -> 23 Cursos Defensive Security - CYBRARY (Material em inglês)  
 https://app.cybrary.it/browse/refined?terms_info=domains%7Cdefensive-security&resultsView=grid&view=course&license=1
 
+-> Industrial Control System Cybersecurity (ICS300) Training  
+https://ics-training.inl.gov/learn/courses/352/industrial-control-system-cybersecurity-ics300-training
+
 ### Purple Team
 -> Foundations of Purple Teaming - AttackIQ (Material em inglês)  
 https://www.academy.attackiq.com/courses/foundations-of-purple-teaming
