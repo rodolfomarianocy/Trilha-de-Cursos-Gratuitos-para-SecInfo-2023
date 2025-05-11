@@ -57,7 +57,7 @@ https://www.netacad.com/pt/courses/networking-devices-and-initial-configuration?
 -> Introdução à IoT e à Transformação Digital - CISCO - Networking Academy  
 https://www.netacad.com/pt/courses/introduction-iot?courseLang=pt-BR
 
--> Network Basics - CYBRARY (Material em inglês)
+-> Network Basics - CYBRARY (Material em inglês)  
 https://app.cybrary.it/browse/course/network-fundamentals-v2
 
 ### Programação
@@ -76,7 +76,7 @@ https://www.ev.org.br/cursos/linguagem-de-programacao-python-basico
 -> Aprendendo com Python - Escola Virtual Gov  
 https://www.escolavirtual.gov.br/curso/629
 
--> Intro to Python - CYBRARY (Material em inglês)
+-> Intro to Python - CYBRARY (Material em inglês)  
 https://app.cybrary.it/browse/course/python
 
 -> Java Development - FIAP  
@@ -141,10 +141,10 @@ https://training.fortinet.com/local/staticpage/view.php?page=fcf_cybersecurity
 -> Fortinet Certified Associate Cybersecurity - Fortinet (Material em inglês)  
 https://training.fortinet.com/local/staticpage/view.php?page=fca_cybersecurity
 
--> Entry-Level Cybersecurity Training - CYBRARY (Material em inglês)
+-> Entry-Level Cybersecurity Training - CYBRARY (Material em inglês)  
 https://app.cybrary.it/browse/course/entry-level-cybersecurity-training
 
--> Cybersecurity Basics - CYBRARY (Material em inglês)
+-> Cybersecurity Basics - CYBRARY (Material em inglês)  
 https://app.cybrary.it/browse/course/cybersecurity-fundamentals
 
 ### Programação + InfoSec
