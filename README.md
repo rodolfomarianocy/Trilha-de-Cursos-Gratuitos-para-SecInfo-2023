@@ -11,7 +11,7 @@
 
 ---
 
-## Tópicos
+## Cursos distribuídos em seções
 - [Bases](#bases)
   - [Fundamentos de TI e Sistemas Operacionais](#fundamentos-de-ti-e-sistemas-operacionais)
   - [Redes](#redes)
