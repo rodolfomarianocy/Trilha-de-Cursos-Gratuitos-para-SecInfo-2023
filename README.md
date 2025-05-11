@@ -21,9 +21,9 @@
 - [Programação + InfoSec](#programação--infosec)
 - [Áreas](#áreas)
   - [Red Team](#red-team)
-  - [AppSec](#appsec)
   - [Blue Team](#blue-team)
   - [Purple Team](#red-team)
+  - [AppSec](#appsec)
   - [GRC (Governança, Riscos e Compliance)](#grc-governança-riscos-e-compliance)
 
 ---
