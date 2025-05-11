@@ -147,10 +147,10 @@ https://app.cybrary.it/browse/course/entry-level-cybersecurity-training
 https://app.cybrary.it/browse/course/cybersecurity-fundamentals
 
 ### Programação + InfoSec
--> PowerShell for Security Professionals - CYBRARY (Material em inglês)
+-> PowerShell for Security Professionals - CYBRARY (Material em inglês)  
 https://app.cybrary.it/browse/course/powershell-for-security-professionals
 
--> Python for Cybersecurity Professionals - CYBRARY (Material em inglês)
+-> Python for Cybersecurity Professionals - CYBRARY (Material em inglês)  
 https://app.cybrary.it/browse/course/python-for-cybersecurity-professionals
 
 ## Áreas
