@@ -1,5 +1,5 @@
 # Trilha de cursos gratuitos para Segurança da Informação
-#### Essa trilha engloba diversos links de cursos com certificados de conclusão totalmente gratuitos, de modo a ajudar quem está iniciando na área e para quem já está na área, pode ter algo interessante também :P
+#### Essa trilha engloba diversos links de cursos com certificados de conclusão totalmente gratuitos, de modo a ajudar quem está iniciando na área. Para quem já está na área, pode ter algo interessante também :P
 
 ---
 
