@@ -217,8 +217,35 @@ https://app.cybrary.it/browse/course/fundamentals-of-cybersecurity-architecture
 -> DevSecOps - CYBRARY (Material em inglês)  
 https://app.cybrary.it/browse/course/devsecops
 
+-> API Security Fundamentals - APISEC UNIVERSITY (Material em inglês)  
+https://www.apisecuniversity.com/courses/api-security-fundamentals
+
 -> OWASP Top 10 - 2021 - CYBRARY (Material em inglês)  
 https://app.cybrary.it/browse/course/owasp
+
+-> OWASP API Security Top 10 and Beyond! - APISEC UNIVERSITY (Material em inglês)  
+https://www.apisecuniversity.com/courses/owasp-api-security-top-10-and-beyond
+
+-> API Documentation ‍Best Practices - APISEC UNIVERSITY (Material em inglês)  
+https://www.apisecuniversity.com/courses/api-documentation-best-practices
+
+-> Securing ‍API Servers - APISEC UNIVERSITY (Material em inglês)  
+https://www.apisecuniversity.com/courses/securing-api-servers
+
+-> API Gateway Security Best Practices - APISEC UNIVERSITY (Material em inglês)  
+https://www.apisecuniversity.com/courses/api-gateway-best-practices
+
+-> API Authentication Best Practices - APISEC UNIVERSITY (Material em inglês)  
+https://www.apisecuniversity.com/courses/api-authentication
+
+-> Securing‍ LLM & NLP APIs - APISEC UNIVERSITY (Material em inglês)  
+https://www.apisecuniversity.com/courses/securing-llm-nlp-apis
+
+-> API Product Management Masterclass - APISEC UNIVERSITY (Material em inglês)  
+https://www.apisecuniversity.com/courses/api-product-management
+
+-> API Security For Connected Cars & Fleets - APISEC UNIVERSITY (Material em inglês)  
+https://www.apisecuniversity.com/courses/api-security-for-connected-cars-and-fleets
 
 ### GRC (Governança, Riscos e Compliance)
 -> 22 cursos de Governança, Risco e Compliance - CYBRARY (Material em inglês)  
@@ -226,6 +253,9 @@ https://app.cybrary.it/browse/refined?terms_info=domains%7Cgovernance%2C-risk%2C
 
 -> Fundamentos da Lei Geral de Proteção de Dados - Escola Virtual Gov  
 https://www.escolavirtual.gov.br/curso/603
+
+-> API Security for PCI Compliance - APISEC UNIVERSITY (Material em inglês)  
+https://www.apisecuniversity.com/courses/api-security-for-pci-compliance
 
 -> Atuação do Encarregado na LGPD: A Função de Orientar - Escola Virtual Gov  
 https://www.escolavirtual.gov.br/curso/1041
