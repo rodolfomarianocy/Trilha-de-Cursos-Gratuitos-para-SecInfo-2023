@@ -59,6 +59,9 @@ https://www.netacad.com/pt/courses/introduction-iot?courseLang=pt-BR
 -> Network Basics - CYBRARY (Material em inglês)  
 https://app.cybrary.it/browse/course/network-fundamentals-v2
 
+-> Fundamentals of Network Security - Palo Alto (Material em inglês)  
+https://www.paloaltonetworks.com/cyberpedia/free-cybersecurity-education-courses
+
 ### Programação
 -> Learn to Program - FIAP  
 https://www.eucapacito.com.br/cursos/learn-to-program/
@@ -146,6 +149,9 @@ https://app.cybrary.it/browse/course/entry-level-cybersecurity-training
 -> Cybersecurity Basics - CYBRARY (Material em inglês)  
 https://app.cybrary.it/browse/course/cybersecurity-fundamentals
 
+-> Introduction to Cybersecurity - Palo Alto (Material em inglês)  
+https://www.paloaltonetworks.com/cyberpedia/free-cybersecurity-education-courses
+
 ### Programação + InfoSec
 -> PowerShell for Security Professionals - CYBRARY (Material em inglês)  
 https://app.cybrary.it/browse/course/powershell-for-security-professionals
@@ -188,8 +194,14 @@ https://www.mobilehackinglab.com/course/offensive-android-programming
 https://www.mobilehackinglab.com/course/offensive-ios-programming
 
 ### Blue Team
+-> Fundamentals of SOC (Security Operations Center) - Palo Alto (Material em inglês)  
+https://www.paloaltonetworks.com/cyberpedia/free-cybersecurity-education-courses
+
 -> Blue Team Junior Analyst Pathway Bundle - SECURITY BLUE TEAM (Material em inglês)  
 https://www.securityblue.team/courses/blue-team-junior-analyst-pathway-bundle
+
+-> Fundamentals of Cloud Security - Palo Alto (Material em inglês)  
+https://www.paloaltonetworks.com/cyberpedia/free-cybersecurity-education-courses
 
 -> 23 Cursos Defensive Security - CYBRARY (Material em inglês)  
 https://app.cybrary.it/browse/refined?terms_info=domains%7Cdefensive-security&resultsView=grid&view=course&license=1
