@@ -4,8 +4,9 @@
 ---
 
 <p align="center">
-  <img height=500 src="https://github.com/user-attachments/assets/32de9c81-42ea-4650-adf7-8db75215ac84"/>
+  <img height=500 src="https://github.com/user-attachments/assets/0e3d04a3-0b46-40fe-876c-7edd74fbdc10"/>
 </p>
+
 
 ---
 
